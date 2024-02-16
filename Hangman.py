@@ -83,7 +83,6 @@ def hangman():
             end_of_game = True
             print ("You win!")    
    
-
 hangman()
 
 stop_playing = False
